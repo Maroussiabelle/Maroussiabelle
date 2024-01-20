@@ -1,9 +1,13 @@
 
 # Hi there!
-## My name is Marija and  I am eager to start a career as a Junior QA. 
-Here I want to share some web testing portfolio items gained during some of my studies and pet-projects.
+## My name is Marija and  I am eager to start a career in IT
 
-I am currently immersed in self-study improving  my programming skills in Java and JavaScript by solving tasks on HackerRank.
+Open to exploring opportunities in Development, DevOps, QA or Data Analysis with a commitment to continuous
+learning.
+
+Here I want to share some portfolio items gained during some of my studies and pet-projects.
+
+I am currently immersed in self-study improving my programming skills in Java and JavaScript by solving tasks on HackerRank.
 
 # Eager to Gain Practical Experience:
 I've built a solid theoretical foundation and am now eager to apply my skills practically in Software Testing, Java, SQL. 
