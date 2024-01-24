@@ -25,6 +25,7 @@ My goal is not just to learn but to contribute to real-world projects.
 - 🤓 Basic knowledge of HTML and CSS  
 
    Gained following certificates:
+  - [Immersion in JavaScript (for beginners)](https://drive.google.com/file/d/103fiZvukrA6wWUv2rK_X5xG4Gz_1Iza0/view?usp=drive_link)
   - [Software testing: Postman for API testing](https://drive.google.com/file/d/1Bj7YVEYr408GSyGnsw6GkSNU3GFLeyDg/view?usp=drive_link)
   - [SQL basic course](https://drive.google.com/file/d/1OeRmGbrWXmlpUu1tXPwk_z4uyZJ9wBhm/view?usp=drive_link)
   - [Java basic course](https://drive.google.com/file/d/1et4ybGLJvpD1lB2Bx4_Y7khPanR_pfFZ/view?usp=drive_link)
