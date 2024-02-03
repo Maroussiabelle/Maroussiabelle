@@ -18,7 +18,7 @@ My goal is not just to learn but to contribute to real-world projects.
 ## A Few Quick Facts
 
 - 💼 Check out my [resume](https://drive.google.com/file/d/1a71WwGUgQko3dIg4CDZovKBZWYgHTsHZ/view?usp=sharing)  
-- 🤓 Right now I am participating at EPAM bootcamp "Automated testing with JavaScript" and finishing online course on Functional Software Testing and Jira at stepik.org  
+- 🤓 Right now I am participating at EPAM bootcamp "Automated Testing Basics in JavaScript" and finishing online course on Functional Software Testing and Jira at stepik.org  
 - 🤓 I'm flexible and open to adapting to new tools and technologies  
 - 🤓 Thoroughly studied fundamentals of theory of testing described in the ISTQB Certified Tester Foundation Level syllabus  
 - 🤓 I understand SCRUM practices and am familiar with tools like JIRA and Trello kanban boards  
