@@ -7,7 +7,7 @@ learning.
 
 Here I want to share some portfolio items gained during some of my studies and pet-projects.
 
-I am currently immersed in self-study improving my programming skills in Java and JavaScript by solving tasks on HackerRank.
+I am currently immersed in self-study improving my programming skills in Java and JavaScript by solving tasks on HackerRank, Leetcode etc.
 
 # Eager to Gain Practical Experience:
 I've built a solid theoretical foundation and am now eager to apply my skills practically in Software Testing, Java, SQL.  
