@@ -2,7 +2,7 @@
 # Hi there!
 ## My name is Marija and  I am eager to start a career in IT
 
-Open to exploring opportunities in Development, DevOps, QA or Data Analysis with a commitment to continuous
+Open to exploring opportunities in QA, Development, DevOps, or Data Analysis with a commitment to continuous
 learning.
 
 Here I want to share some portfolio items gained during some of my studies and pet-projects.
