@@ -1,28 +1,27 @@
 
 # Hi there!
-## My name is Marija and  I am eager to start a career in IT
+## My name is Marija and I am a junior test automation engineer with knowledge of JavaScript and WebdriverIO.
+
+I am currently finishing a 3-month long mentored JavaScript TestAutomation internship at EPAM systems 
 
 Open to exploring opportunities in QA, Development, DevOps, or Data Analysis with a commitment to continuous
 learning.
 
-Here I want to share some portfolio items gained during some of my studies and pet-projects.
+# Eager to Gain More Practical Experience:
+I've built a solid theoretical foundation and am now eager to apply my skills practically in Software Testing, JavaScript, SQL.  
 
-I am currently immersed in self-study improving my programming skills in Java and JavaScript by solving tasks on HackerRank, Leetcode etc.
-
-# Eager to Gain Practical Experience:
-I've built a solid theoretical foundation and am now eager to apply my skills practically in Software Testing, Java, SQL.  
-My goal is not just to learn but to contribute to real-world projects.
-
-
+Here I will share some portfolio items gained during some of my studies and pet-projects.
 
 ## A Few Quick Facts
 
 - 💼 Check out my [resume](https://drive.google.com/file/d/1DK9HUa9Fk6TNswzXqOL5mf3o21JzwNiW/view?usp=drive_link)  
-- 🤓 Right now I am participating at EPAM bootcamp "Automated Testing Basics in JavaScript" and finishing online course on Functional Software Testing and Jira at stepik.org  
+- 🤓 Finished a bootcamp "Automated Testing Basics in JavaScript" by EPAM systems
+- 🤓 Completing online course on Functional Software Testing at stepik.org  
 - 🤓 I'm flexible and open to adapting to new tools and technologies  
 - 🤓 Thoroughly studied fundamentals of theory of testing described in the ISTQB Certified Tester Foundation Level syllabus  
 - 🤓 I understand SCRUM practices and am familiar with tools like JIRA and Trello kanban boards  
-- 🤓 Basic knowledge of HTML and CSS  
+- 🤓 Basic knowledge of HTML and CSS
+- 🤓 Experience with WebdriverIO, Mocha, Chai, SuperTest, Postman, Cucumber, Jenkins, GitlabCI, Jira
 
    Gained following certificates:
   - [Immersion in JavaScript (for beginners)](https://drive.google.com/file/d/103fiZvukrA6wWUv2rK_X5xG4Gz_1Iza0/view?usp=drive_link)
