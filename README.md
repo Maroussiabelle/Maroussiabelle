@@ -22,6 +22,8 @@ Here I will share some portfolio items gained during some of my studies and pet-
 - 🤓 I understand SCRUM practices and am familiar with tools like JIRA and Trello kanban boards  
 - 🤓 Basic knowledge of HTML and CSS
 - 🤓 Experience with WebdriverIO, Mocha, Chai, SuperTest, Postman, Cucumber, Jenkins, GitlabCI, Jira
+- 🤓 [Personality test report](https://drive.google.com/file/d/1XMN3R6CBhRUeRlfZs-LygtnyKW7SV0D1/view?usp=sharing)
+- 🤓 [Logic Test report](https://drive.google.com/file/d/1Z1KUM3sjY3PwqQG-91OW9KupQTn43AAq/view?usp=drive_link)
 
    Gained following certificates:
   - [Immersion in JavaScript (for beginners)](https://drive.google.com/file/d/103fiZvukrA6wWUv2rK_X5xG4Gz_1Iza0/view?usp=drive_link)
