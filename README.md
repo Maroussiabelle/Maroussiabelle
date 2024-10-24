@@ -2,7 +2,7 @@
 # Hi there!
 ## My name is Marija and I am a junior test automation engineer with knowledge of JavaScript and WebdriverIO.
 
-I am currently finishing a 3-month long mentored JavaScript TestAutomation internship at EPAM systems 
+I am currently finishing a 3-month long mentored JavaScript TestAutomation internship at [EPAM systems](https://www.epam.com/) 
 
 Open to exploring opportunities in QA, Development, DevOps, or Data Analysis with a commitment to continuous
 learning.
