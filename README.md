@@ -17,9 +17,9 @@ Here I will share some portfolio items gained during some of my studies and pet-
 - 💼 Check out my [resume](https://drive.google.com/file/d/1VzOSX29eYIs2xmiEJgIK9xgf6PueoblA/view?usp=drive_link)  
 - 🤓 Finished a bootcamp "Automated Testing Basics in JavaScript" organized by EPAM systems
 - 🤓 Completing online course on Functional Software Testing at stepik.org  
-- 🤓 I'm flexible and open to adapting to new tools and technologies  
+- 🤓 Flexible and open to adapting to new tools and technologies  
 - 🤓 Thoroughly studied fundamentals of theory of testing described in the ISTQB Certified Tester Foundation Level syllabus  
-- 🤓 I understand SCRUM practices and am familiar with tools like JIRA and Trello kanban boards  
+- 🤓 Understand SCRUM practices and am familiar with tools like JIRA and Trello kanban boards  
 - 🤓 Basic knowledge of HTML and CSS
 - 🤓 Experience with WebdriverIO, Mocha, Chai, SuperTest, Postman, Cucumber, Jenkins, GitlabCI, Jira
 - 🤓 [Personality test report](https://drive.google.com/file/d/1XMN3R6CBhRUeRlfZs-LygtnyKW7SV0D1/view?usp=sharing)
