@@ -14,7 +14,7 @@ Here I will share some portfolio items gained during some of my studies and pet-
 
 ## A Few Quick Facts
 
-- 💼 Check out my [resume](https://drive.google.com/file/d/1VzOSX29eYIs2xmiEJgIK9xgf6PueoblA/view?usp=drive_link)  
+- 💼 Check out my [resume](https://drive.google.com/file/d/1N8p52JeT447o5IuSDFseD2849058utAd/view?usp=sharing)  
 - 🤓 Finished a bootcamp "Automated Testing Basics in JavaScript" organized by EPAM systems
 - 🤓 Completing online course on Functional Software Testing at stepik.org  
 - 🤓 Flexible and open to adapting to new tools and technologies  
