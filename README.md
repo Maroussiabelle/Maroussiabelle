@@ -1,10 +1,10 @@
 
 # Hi there!
-## My name is Marija and I am a junior test automation engineer with knowledge of JavaScript and WebdriverIO.
+## My name is Marija and I am a project manager in e-Commerce.
 
-I am currently finishing a 3-month long mentored JavaScript TestAutomation internship at [EPAM systems](https://www.epam.com/) 
+In 2024 I finished a 3-month long mentored JavaScript TestAutomation internship at [EPAM systems](https://www.epam.com/) 
 
-Open to exploring opportunities in QA, Development, Project Management, or Data Analysis with a commitment to continuous
+Open to exploring opportunities in Project Management, QA or Data Analysis with a commitment to continuous
 learning.
 
 # Eager to Gain More Practical Experience:
@@ -14,7 +14,7 @@ Here I will share some portfolio items gained during some of my studies and pet-
 
 ## A Few Quick Facts
 
-- 💼 Check out my [resume](https://drive.google.com/file/d/1N8p52JeT447o5IuSDFseD2849058utAd/view?usp=sharing)  
+- 💼 Check out my [resume](https://drive.google.com/file/d/1Bx0W4BQJ92XVXf_JwbWyOribdXHoORrG/view?usp=sharing)  
 - 🤓 Finished a bootcamp "Automated Testing Basics in JavaScript" organized by EPAM systems
 - 🤓 Completing online course on Functional Software Testing at stepik.org  
 - 🤓 Flexible and open to adapting to new tools and technologies  
